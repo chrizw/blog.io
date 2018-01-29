@@ -1,12 +1,3 @@
----
-layout: post
-title: Heat treatment
-date: 2017-12-12
-categories: blog
-tags: [HT, machinery]
-description: HT
----
-
 [TOC]
 
 ---
